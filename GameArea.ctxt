@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=myApplet
+comment0.target=GameArea(MyPuzzle)
+comment0.text=dimiourgos\ p\ dimiourgi\ kenurgio\ GameArea\ me\ 8\ pazl
+comment1.params=pazlList\ pazl
+comment1.target=void\ moveToFreePosition(java.util.List,\ Pazl)
+comment1.text=methodos\ moveToFreePosition\ me\ orismata\ tin\ lista\ kai\ to\ pazl\r\nopou\ ginete\ i\ metakinisi\ stin\ keni\ thesi
+comment2.params=freePosition
+comment2.target=void\ checkMovability(int)
+comment2.text=methodos\ checkMovability\ me\ orisma\ to\ freePosition\r\nopou\ elegxw\ gia\ to\ an\ ena\ pazl\ ine\ movable\ i\ oxi
+comment3.params=
+comment3.target=boolean\ checkForWin()
+comment3.text=methodos\ checkForWin\ tipou\ boolean\ opou\ elegxw\ pote\ \r\ntha\ kerdisi\ o\ xristis
+comment4.params=e
+comment4.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment4.text=methodos\ mouseClicked
+comment5.params=e
+comment5.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment6.params=e
+comment6.target=void\ mouseReleased(java.awt.event.MouseEvent)
+comment7.params=e
+comment7.target=void\ mouseEntered(java.awt.event.MouseEvent)
+comment8.params=e
+comment8.target=void\ mouseExited(java.awt.event.MouseEvent)
+numComments=9

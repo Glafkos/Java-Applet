@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment0.text=methodos\ init
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=methodos\ actionPerformed\ opou\ vazoume\ tixea\ ta\ pazl
+comment2.params=
+comment2.target=void\ plusMove()
+comment2.text=methodos\ \ plusMove\ opou\ auxanoume\ to\ numberOfMoves\ kathe\ fora
+numComments=3
